@@ -1,0 +1,79 @@
+{
+  "id": "",
+  "name": "",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "1386189",
+      "name": "信息",
+      "font_class": "xinxi",
+      "unicode": "e638",
+      "unicode_decimal": 58936
+    },
+    {
+      "icon_id": "1802227",
+      "name": "微信",
+      "font_class": "weixin",
+      "unicode": "e50a",
+      "unicode_decimal": 58634
+    },
+    {
+      "icon_id": "2781289",
+      "name": "下载",
+      "font_class": "xiazai",
+      "unicode": "e655",
+      "unicode_decimal": 58965
+    },
+    {
+      "icon_id": "4859047",
+      "name": "搜索",
+      "font_class": "sousuo",
+      "unicode": "e615",
+      "unicode_decimal": 58901
+    },
+    {
+      "icon_id": "5925133",
+      "name": "更多",
+      "font_class": "gengduo",
+      "unicode": "e60d",
+      "unicode_decimal": 58893
+    },
+    {
+      "icon_id": "7038052",
+      "name": "vivo",
+      "font_class": "vivo",
+      "unicode": "e602",
+      "unicode_decimal": 58882
+    },
+    {
+      "icon_id": "8189592",
+      "name": "箭头",
+      "font_class": "iconyoujiantou",
+      "unicode": "e51a",
+      "unicode_decimal": 58650
+    },
+    {
+      "icon_id": "9339661",
+      "name": "链接",
+      "font_class": "lianjie",
+      "unicode": "e515",
+      "unicode_decimal": 58645
+    },
+    {
+      "icon_id": "14293637",
+      "name": "支付宝",
+      "font_class": "zhifubao",
+      "unicode": "e506",
+      "unicode_decimal": 58630
+    },
+    {
+      "icon_id": "17013357",
+      "name": "微博",
+      "font_class": "weibo1",
+      "unicode": "e504",
+      "unicode_decimal": 58628
+    }
+  ]
+}

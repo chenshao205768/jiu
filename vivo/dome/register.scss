@@ -1,0 +1,180 @@
+body, html {
+    width: 100%;
+    min-height: 100%;
+    overflow-x: hidden;
+    box-sizing: border-box;
+    font-size: 12px;
+    background-color: rgb(247, 247, 247);
+}
+.register{
+    width: 100%;
+    height: 100%;
+}
+.main{
+    width: 860px;
+    min-height: 670px;
+    background: #fff;
+    margin: 0 auto;
+    margin-top: 80px;
+    overflow: hidden;
+}
+.logo{
+    margin-top: 60px;
+}
+.logo-c{
+    width: 160px;
+    height: 42px;
+    margin: 0 auto;
+    cursor: pointer;
+}
+.logo-c img{
+    width: 100%;
+    height: 100%;
+    display: block;
+}
+.title{
+    margin-top: 30px;
+}
+.title-c{
+    font-family: HYQiHei-FZS;
+    font-size: 22px;
+    color: #000;
+    text-align: center;
+}
+.box{
+    width: 360px;
+    margin: 0 auto;
+    margin-top: 60px;
+    margin-bottom: 100px;
+}
+.box-c{
+    width: 360px;
+}
+.country{
+    height: 48px;
+    background-color: #fff;
+    border: 1px solid #dedfe0;
+    font-size: 16px;
+    color: #000;
+    padding-left: 12px;
+    line-height: 48px;
+    position: relative;
+    cursor: pointer;
+}
+.country-r{
+    height: 46px;
+    position: relative;
+}
+.country-r div{
+    width: 18.8px;
+    height: 10.2px;
+    float: right;
+    position: absolute;
+    top: 19px;
+    right: 15.2px;
+}
+.country-r img{
+    width: 18.8px;
+    height: 10.2px;
+    vertical-align: top;
+}
+.hint{
+    margin-top: 10px;
+    font-size: 14px;
+    color: #999;
+    line-height: 19px;
+}
+.phone{
+    margin-top: 15px;
+    height: 48px;
+    border: 1px solid #dedfe0;
+    cursor: pointer;
+}
+.phone-l{
+    width: 94px;
+    height: 46px;
+    padding-left: 12px;
+    line-height: 46px;
+    font-size: 16px;
+    color: #000;
+    float: left;
+    position: relative;
+}
+.phone-lr{
+    position: relative;
+}
+.phone-lr::after{
+    content: "";
+    width: 13.2px;
+    height: 7.7px;
+    position: absolute;
+    top: 21.3px;
+    right: 19.3px;
+    background: url(../images/xiala.png) no-repeat;
+    background-size: 100% 100%;
+}
+.input{
+    float: left;
+    width: 264px;
+    font-size: 16px;
+    color: #252525;
+    height: 46px;
+    line-height: 46px;
+    border: none;
+}
+.aside{
+    margin-top: 20px;
+    font-size: 14px;
+    height: 20px;
+    line-height: 20px;
+}
+.check-box{
+    width: 18px;
+    height: 18px;
+    border: 1px solid #dedfe0;
+    margin-top: 1px;
+    float: left;
+    position: relative;
+}
+.span1{
+    margin-left: 8px;
+    color: #252525;
+}
+.span2{
+    color: #456fff;
+    cursor: pointer;
+}
+.span3{
+    margin-left: 0;
+    color: #252525;
+}
+.span4{
+    color: #456fff;
+    cursor: pointer;
+}
+.btn{
+    display: block;
+    width: 360px;
+    height: 48px;
+    line-height: 48px;
+    font-size: 17px;
+    color: #fff;
+    text-align: center;
+    margin: 0 auto;
+    margin-top: 20px;
+    cursor: pointer;
+    background-color: #456fff;
+    background-image: linear-gradient(90deg,#418eff,#4566ff);
+}
+.footer{
+    margin-top: 135px;
+    margin-bottom: 30px;
+    text-align: center;
+    font-size: 11px;
+    color: #9d9d9d;
+}
+.footer-b{
+    padding: 10px 0;
+    font-size: 10px;
+    box-sizing: border-box;
+}
